@@ -2,9 +2,9 @@ Tribute Website — A.P.J. Abdul Kalam
 
 A simple tribute webpage dedicated to Dr. A.P.J. Abdul Kalam, the "Missile Man of India" and former President of India.
 
-Features
+**Features : **
 
--- Clean and simple design
+Clean and simple design
 
 Responsive layout
 
@@ -14,7 +14,7 @@ Circular profile image
 
 External link to Wikipedia
 
-🛠️ Built With
+** Built With:**
 
 HTML5
 
